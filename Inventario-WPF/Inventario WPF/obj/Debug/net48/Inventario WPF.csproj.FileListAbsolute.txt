@@ -1,0 +1,6 @@
+C:\Users\alumno\Source\Repos\eduardo-ahuir\Inventario-WPF\Inventario WPF\obj\Debug\net48\Inventario WPF.csproj.AssemblyReference.cache
+C:\Users\alumno\Source\Repos\eduardo-ahuir\Inventario-WPF\Inventario WPF\obj\Debug\net48\Inventario WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumno\Source\Repos\eduardo-ahuir\Inventario-WPF\Inventario WPF\obj\Debug\net48\MainWindow.g.cs
+C:\Users\alumno\Source\Repos\eduardo-ahuir\Inventario-WPF\Inventario WPF\obj\Debug\net48\App.g.cs
+C:\Users\alumno\Source\Repos\eduardo-ahuir\Inventario-WPF\Inventario WPF\obj\Debug\net48\Inventario WPF_MarkupCompile.cache
+C:\Users\alumno\Source\Repos\eduardo-ahuir\Inventario-WPF\Inventario WPF\obj\Debug\net48\Inventario WPF_MarkupCompile.lref
